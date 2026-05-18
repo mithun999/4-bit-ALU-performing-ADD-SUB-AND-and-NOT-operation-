@@ -11,7 +11,7 @@ module adder_4bit_tb;
     $dumpvars(0, adder_4bit_tb);
 
    
-end
+end 
 
 
 
